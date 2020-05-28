@@ -1,3 +1,4 @@
+
 <h1>Listas-POO</h1>
 <h3>Diciplinas:</h3>
 <ul>
@@ -17,11 +18,8 @@
 <p>O conteúdo e divido por lista, e todas elas possuem os mesmo documentos referentes a cada uma.<p>
 <ol>
    <li>Documentação</li>
-   <br>
-   Desiner Thing: Analisé geral do problema e apresentação da solução.
-   <br>
-   Requisitos:Funcionalidades que são apresentadas no projeto.
-   <br>
+   <p>Desiner Thing: Analisé geral do problema e apresentação da solução.</p>
+   <p>Requisitos:Funcionalidades que são apresentadas no projeto.</p>
    <li>Implementação</li>
    <p>O projeto feito em java.</p>
    <li>Manual</li>
