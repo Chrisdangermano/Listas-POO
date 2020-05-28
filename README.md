@@ -2,9 +2,9 @@
 <h3>Diciplinas:</h3>
 <ul>
    <li>Engenharia de Software</li>
-   <p>Professor: Claudio</p>
+   <p>Professor: Claudio Etelvino de Lima</p>
    <li>Programacao Orientada a Objetos</li>
-   <p>Professor: Gerson</p>
+   <p>Professor: Gerson da Penha Neto</p>
 </ul>
 <h3>Grupo:</h3>
 <ul>
