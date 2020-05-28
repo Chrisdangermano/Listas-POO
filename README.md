@@ -17,8 +17,11 @@
 <p>O conteúdo e divido por lista, e todas elas possuem os mesmo documentos referentes a cada uma.<p>
 <ol>
    <li>Documentação</li>
+   <br>
    Desiner Thing: Analisé geral do problema e apresentação da solução.
-   <n>Requisitos: </n><p>Funcionalidades que são apresentadas no projeto.</p>
+   <br>
+   Requisitos:Funcionalidades que são apresentadas no projeto.
+   <br>
    <li>Implementação</li>
    <p>O projeto feito em java.</p>
    <li>Manual</li>
