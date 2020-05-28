@@ -16,13 +16,11 @@
 <br>
 <h3>Conteúdo<h3>
 <p>O conteúdo e divido por lista, e todas elas possuem os mesmo documentos referentes a cada uma.<p>
-<ol>
-   <li>Documentação</li>
-   <p>Desiner Thing: Analisé geral do problema e apresentação da solução.</p>
-   <p>Requisitos:Funcionalidades que são apresentadas no projeto.</p>
-   <li>Implementação</li>
-   <p>O projeto feito em java.</p>
-   <li>Manual</li>
-   <p>Arquivo que ira explicar como manusear o programa.</p>
-</ol>
+<h3>Documentação</h3>
+<p>Desiner Thing: Analisé geral do problema e apresentação da solução.</p>
+<p>Requisitos:Funcionalidades que são apresentadas no projeto.</p>
+<h3>Implementação</h3>
+<p>O projeto feito em java.</p>
+<h3>Manual</h3>
+<p>Arquivo que ira explicar como manusear o programa.</p>                                                                                                                                  
 <h6>3º ADS B</h6>
