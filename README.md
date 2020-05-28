@@ -18,7 +18,7 @@
 <p>O conteúdo e divido por lista, e todas elas possuem os mesmo documentos referentes a cada uma.<p>
 <h3>Documentação</h3>
 <p>Desiner Thing: Analisé geral do problema e apresentação da solução.</p>
-<p>Requisitos:Funcionalidades que são apresentadas no projeto.</p>
+<p>Requisitos: Funcionalidades que são apresentadas no projeto.</p>
 <h3>Implementação</h3>
 <p>O projeto feito em java.</p>
 <h3>Manual</h3>
