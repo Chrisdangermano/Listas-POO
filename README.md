@@ -1,5 +1,4 @@
 <h1>Listas-POO</h1>
-<br>
 <h3>Grupo:</h3>
 <ul>
    <li>Brendo Bubela Vidal</li>
