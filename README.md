@@ -2,9 +2,9 @@
 <h3>Diciplinas:</h3>
 <ul>
    <li>Engenharia de Software</li>
-      <h4>Claudio<h4>
+   <h5>Professor: Claudio</h5>
    <li>Programacao Orientada a Objetos</li>
-      <h4>Gerson<h4>
+   <h4>Professor: Gerson</h4>
 </ul>
 <h3>Grupo:</h3>
 <ul>
